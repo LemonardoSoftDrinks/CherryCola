@@ -21,7 +21,9 @@ Aroma Formula
 
 Syrup Formula
 ========
-3 l Сhokeberry juice concentrate
+3 l Cherry juice concentrate
+
+1.5 l Сhokeberry juice concentrate
 
 1.5 l Lemon Juice concentrate
 
