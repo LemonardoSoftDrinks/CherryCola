@@ -14,11 +14,11 @@ sold. The Toronto-based company Opencola founded by Grad Conn, Cory Doctorow, an
 the drink than the software it was supposed to promote. Laird Brown, the company's senior strategist, attributes its 
 success to a widespread mistrust of big corporations and the "proprietary nature of almost everything."
 
-Choke Cola
+Cherry Cola
 ========
 
-Open Source 100% Natural  Cola
+Open Source 100% Natural Cherry Cola
 
-Choke Cola recipe is based on the OpenCola recipe.
+Cherry Cola recipe is based on the OpenCola recipe.
 Original recipe was modified to create 100% natural cola without any artificial ingredient.
-We removed sugar, caffeine and caramel color from the recipe, replaced phosphoric acid with lemon juice, and used chokeberry juice as a coloring agent.
+We removed sugar, caffeine and caramel color from the recipe, replaced phosphoric acid with lemon juice, and used chokeberry juice as a coloring agent and added cherry juice to make cherry cola.
